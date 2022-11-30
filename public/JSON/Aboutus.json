@@ -1,0 +1,16 @@
+{
+    "logo":"Logo.png",
+    "Links":["Home","Articles","Take a Test","About us"],
+    "connect":["/HomePage","/Articles","/Quiz","/Aboutus"],
+    "Dropdown":["Anxiety","Depression","Eating Disorder","Addiction"],
+    "Images":["/Images/1.png","/Images/1.png","/Images/2.webp","/Images/3.jpg"],
+    "Cardspara":[" We take seriously the protection of your privacy and confidentiality.",
+    "Real advice from the right people at the right time","Need someone to talk to? Call us if you are disturbed, stressed, depressed or suicidal. "],
+    "Cardhead":["We value your Privacy","Get expert advice","Community support"],
+    "AboutUs":"About us",
+    "Content":"AvSaad aims to give hope to every person experiencing stress, anxiety and depression .At its core, AvSaad is an idea, a movement, and a metaphor for hope. Each month, millions of people from all around the world turn to us for trustworthy information they can use to improve their mental health and make healthy changes.",
+    "WhyUs":"Why us?",
+    "FAQ":"FAQ",
+    "Questions":["I feel like I am depressed and don’t know what to do!","I have a friend/family member who I think is depressed and/or may have suicidal tendencies.","I want to be a part of this cause. How can I help?","I live abroad and would like to partner with the foundation / I would like to open a branch of the foundation in my country."],
+    "Answers":["Statistics suggest 1 in 5 people will suffer some form of depression in their lifetime, so remember you are not alone. You can reach out to our helplines to talk to someone.","Visit our Find a Therapist page to find help near you. Additionally, you can also reach out to any of the helpline numbers on our website for more support.","If you are a person with mental illness or a person with lived experience, you can share your story with us. Your personal information will be kept confidential if you prefer. If you are a qualified therapist and would like to offer your services you can register your self here.If you want to host a school program at your school, please click here to fill up the form.We currently do not have any open volunteer positions. However, you can send us your details and we will get in touch with you accordingly ","Currently we are not looking to expand the Foundation or open any branches. Should this change, we will make necessary announcements."]
+}

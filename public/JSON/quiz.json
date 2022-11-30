@@ -1,0 +1,16 @@
+{
+    "logo":"Logo.png",
+    "Links":["Home","Articles","Take a Test","About us"],
+    "connect":["/HomePage","/Articles","/Quiz","/Aboutus"],
+    "Dropdown":["Anxiety","Depression","Eating Disorder","Addiction"],
+    "Sliderimg":["sliderimg1.webp","sliderimg2.webp","sliderimg3.webp"],
+    "Welcome":"Welcome To AvSaad",
+    "WelcomeD":"Online screening is one of the quickest and easiest ways to determine whether you are experiencing symptoms of a mental health condition. Mental health conditions, such as depression or anxiety, are real, common and treatable. And recovery is possible.",
+    "Questions":["Feeling nervous, anxious, or on edge ?","Not being able to stop or control worrying ?","Worrying too much about different things ?","Trouble relaxing ?","Being so restless that it is hard to sit still ?",
+    "Becoming easily annoyed or irritable ?","Feeling afraid, as if something awful might happen ?"],
+    "Answer":["Not at all","Many days","More than half the days","Nearly everyday"],
+    "Images":["/Images/undraw_online_test_re_kyfx.svg","/Images/1.svg","/Images/2.svg","/Images/3.svg"],
+    "Cardspara":["Make sure you're in a comfortable environment where you can focus on the test",
+    "Answer a few questions about your preferences","Feel the content within you with a curated plan personalised just for you."],
+    "Cardhead":["Complete the Test","View Detailed Results","Unlock Your Potential"]
+}

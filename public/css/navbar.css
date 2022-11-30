@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500&display=swap');
+*{
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+    margin: 0px;
+}
+
+nav{
+    background-image:url('/Public/Gif/bg3.gif');
+    background-attachment: fixed;  
+    background-size:cover;
+    background-position-y: 100px;
+    background-position-x: 50px;
+}
+
+nav{
+    z-index: 5;
+    overflow: hidden;
+    background-color: white;
+}
+
+.topnav{
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    margin:auto;
+    height: 10vh;
+    position: fixed;
+    box-shadow: 0 12px 8px 0 rgba(0, 0, 0, 0.2);
+    z-index: 5;
+    background-color: white;
+}
+
+.topnav a{
+    padding-left:10px;
+    padding-bottom: 0;
+    padding-right: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight:bold;
+    z-index: 5;
+}
+
+.topnav a:hover{
+    color:#FFE0B1;
+}
+
+.con{
+    margin-top: 25px;
+    width:33%;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    font-weight: bolder;
+    color:black;
+    text-decoration: none;
+}
+
+.logo{
+    margin-top: 8px;
+    width: 10%;
+    height: 82%;
+    float: left;
+    margin-left: 30px;
+    font-size: 40px;
+    color: black;
+}
+
+.login{
+margin-top: 15px;
+ margin-right: 45px;
+ padding: 7px;
+ border:none;
+ border-radius: 50px;
+ cursor: pointer;
+ transition: all 0.3s ease 0s;
+ width: 120px;
+ height: 42px;
+ text-align: center;
+ font-family: 'Outfit', sans-serif;
+ font-weight: 500;
+ font-size: 18px;
+ font-weight: bolder;
+ text-decoration: none;
+ background-color:bisque ;
+}
+
+
+.login:hover{
+background-color: black;
+color: #FFE0B1;
+}
+
+.S{
+    color:bisque;
+}
+
+.logo:hover .S{
+    color: black;
+}

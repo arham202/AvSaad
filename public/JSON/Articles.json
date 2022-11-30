@@ -1,0 +1,15 @@
+{
+    "logo":"Logo.png",
+    "Links":["Home","Articles","Take a Test","About us"],
+    "connect":["/HomePage","/Articles","/Quiz","/Aboutus"],
+    "p1":"An emotion that you feel when you’re worried about something. Your body tenses up, and your mind becomes fixated on the thing you’re worried about. It can be hard to concentrate on anything else. Mental illness can also affect your appetite and make it hard to sleep. A little anxiety can be useful.",
+    "Dropdown":["Anxiety","Depression","Eating Disorder","Addiction"],
+    "Sliderimg":["sliderimg1.webp","sliderimg2.webp","sliderimg3.webp"],
+    "Images":["/Images/undraw_exams_re_4ios.svg","/Images/undraw_tree_swing_re_pqee.svg","/Images/undraw_medicine_b-1-ol.svg","/Images/undraw_meditating_re_aiqa.svg","/Images/undraw_woman_re_afr8.svg"],
+    "Articles":[
+    "An emotion that you feel when you’re worried about something. Your body tenses up, and your mind becomes fixated on the thing you’re worried about. It can be hard to concentrate on anything else. Mental illness can also affect your appetite and make it hard to sleep. A little anxiety can be useful.",
+    "  Depression is a mood disorder that causes a persistent feeling of sadness and loss of interest. Also called major depressive disorder or clinical depression, it affects how you feel, think and behave and can lead to a variety of emotional.",
+    "An addiction is a chronic dysfunction of the brain system that involves reward, motivation, and memory. Eating disorders are behavioral conditions characterized by severe and associated distressing emotions. ",
+    " Eating disorders are behavioral conditions characterized by severe and persistent disturbance in eating behaviors and associated distressing thoughts and emotions."
+]
+}

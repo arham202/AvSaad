@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<title>AvSaad</title>
+	<link rel="stylesheet" href="css/Login.css">
+</head>
+
+<script>
+        function valid() {
+            var emailbox = document.getElementById("e").value;
+            var emailbox2 = document.getElementById("e");
+
+			if(emailbox.length == 0){
+				alert("Empty Field")
+			}
+            var re = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+            if (re.test(emailbox)) {
+                return true;
+            }
+            else {
+                emailbox2.style.border = "red solid 3px";
+                return false;
+            }
+        }
+</script>
+
+<body>
+
+	<header>
+		<h1 class="heading">Welcome To AvSaad</h1>
+	</header>
+
+  
+	<div class="container">
+		<div class="slider"></div>
+		<div class="btn">
+			<button class="login"><a href="/log">Login</a></button>
+			<button class="signup"><a href="/reg">Signup</a></button>
+		</div>
+    <form action="/log" method="POST">
+		<div class="form-section">
+			<div class="login-box">
+				<input type="email" class="email ele" placeholder="youremail@email.com" name="aemail" id="e">
+				<input type="password" class="password ele" placeholder="password" name="apassword">
+				<button type="submit" class="clkbtn" onclick="valid()">Login</button>
+			</div>
+		</div>
+	</div>
+    </form>
+</body>
+
+</html>
